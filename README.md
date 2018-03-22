@@ -1,11 +1,34 @@
 # Viaja Seguro 360
 
-Entender y optimizar el journey de toar un camión de la CDMX a Cueravaca. 
+**Proyecto Sprint #1 | _Track UX Laboratoria_**
+
+Entender y optimizar el journey de tomar un camión de la CDMX a Cueravaca, con el objetivo de conocer el _proceso de diseño_ de una solución tecnológica.
+
+Para ello se requiere la conformación de equipos de al menos 3 personas que cubran los roles de: Product Owner, UX Designer y UX Researcher.
+
+
+### Equipo
+
+PO - Ana Laura Sánchez Tamayo <br>
+UX Research - Samahara Fernanández y Nancy Santana <br>
+UX Design - Rosa Talía Colunga Tello
+
 
 ## Nuestra idea
 
-Definir una alternativa para aquellos usuarios que tienen complicaciones al buscar un método de traslado seguro desde su punto de partida hasta la terminal, y de la terminal a su destino, esto en conjunto con partners locales que nos ayudarán en el proceso de traslado de nuestro usuario, de manera eficiente, segura y cómoda.
+Definir una alternativa para aquellos usuarios que tienen complicaciones al buscar un método de **traslado seguro desde su punto de partida hasta la terminal, y de la terminal a su destino**, esto en conjunto con _partners locales_ que nos ayudarán en el proceso de traslado de nuestro usuario, de manera eficiente, segura y cómoda.
 
+# Empatizar 
+
+Para ser capaces de optimizar la experiencia de los usuarios ante los diferentes productos y servicios, es necesario entenderlos y ponerse en su lugar. Para ello se realiza una aproximación a sus intereses y necesidades analizando las siguientes variables dentro del _empathy map_:
+
+- ¿Qué ve?
+- ¿Qué dice y hace?
+- ¿Qué oye?
+- ¿Qué piensa y siente?
+
+
+Dicho análisis nos permite identificar el problema a resolver, las características del usuario, _pain-points_ y qué beneficios que espera obtener.
 
 ## Journey 
 
@@ -25,6 +48,8 @@ Definir una alternativa para aquellos usuarios que tienen complicaciones al busc
 	* Monitoreo del trayecto (Ruta y tiempo)
 * Arribo a terminal y descenso. 
 * **Trayecto a destino.**
+
+El primer paso fue 
 
 
 ## Objetivos de negocio.
@@ -46,19 +71,21 @@ Definir una alternativa para aquellos usuarios que tienen complicaciones al busc
 
 
 
-## Perfil de usuario #1
+## Perfil de usuario
 
 
-Adulto-joven 
-Sabe de tecnología
-Tiene tarjeta de crédito 
-Área metropolitana
-+$4,000MN
-No es viajero frecuente
-Viaja por placer
-Viaja acompañado
-Vive solo
-Es organizado
+* Adulto-joven 
+* Sabe de tecnología
+* Tiene tarjeta de crédito 
+* Vive en el área metropolitana
+* +_$4,000_ MN
+* No es viajero frecuente
+* Viaja por placer
+* Viaja acompañado
+* Vive solo
+* Es organizado
+
+# Research
 
 
 ## Field Research
@@ -68,45 +95,29 @@ Se realizó investigación de campo directamente en la Central de Autobuses del 
 
 Llegando al paradero encontramos rápidamente la Terminal Ejecutiva Sur de ADO (Fig. 1), misma que tiene difícil acceso peatonal debido a que los camiones pasan a alta velocidad o se estacionan enfrente, el acceso vehícular se da por la calle posterior, la cual también transitada constantemente por los camiones que ingresan al paradero. 
 
-
-
-
+![Fig-1](assets/fig-1.png)
 
 Continuando con nuestro recorrido atravesamos el paradero norte (Fig. 2) y hay que cruzar por la Terminal del STCM Línea 2. Una vez ubicada la salida por medio de preguntas y tratado de encontrar la señalización, procedimos a bajar del puente y nos encontramos con una gran cantidad de puestos ambulantes que dificultan y vuelven laberíntico el camino a la Terminal de autobuses. 
 
 
-
-
+![Fig-2](assets/fig-2.png)
 
 
 Una vez en la terminal  se ubica el estacionamiento, la base de taxis de la terminal y la entrada al interior. 
 
-
-
-
-
+![Fig-3](assets/fig-3.png)
 
 Ya dentro nos dedicamos a observar la distribución de las salas, ubicar los espacios de reservación de taxis de la terminal y encontramos que el sitio tiene ya tarifas predeterminadas respecto de la zona a la que se dirija el usuario (Fig. 4) tanto para servicio regular y nocturno. 
 
-
-
-
-
+![Fig-4](assets/fig-4.png)
 
 La mayor parte de la vía de ascenso y descenso (Fig. 5) está ocupada por la fila de taxis y vehículos privados o taxis de fuera quedan confiados al segundo carril, dificultando las maniobras para el viajero.
 
+![Fig-5](assets/fig-5.png)
 
+Se puede ver el área de espera de taxis de la terminal (Fig. 6), las personas se van formando y se les asigna un vehículo. 
 
-
-
-
-
-Se puede ver el área de espera de taxis de la temrinal, las personas se van formando y se les asigna un vehículo. 
-
-
-
-
-
+![Fig-6](assets/fig-6.png)
 
 
 ### Conclusiones
@@ -117,19 +128,19 @@ Se puede ver el área de espera de taxis de la temrinal, las personas se van for
 * Los sitios hacen uso de tarifas predeterminadas respecto a la zona, lo que facilita la implementación de una tarifa al reservar. 
 
 
-
 ## Encuesta
+
+Se eligió como herramienta *Google Forms*, y se plantearon un total de 25 preguntas entre las cuales se eligieron las 10 más relevantes para el proceso de investigación.
+
+**Enlace de la encuesta:**  https://goo.gl/forms/TTOiHSmOfwvuiOm93
 
 ### Estrategia de Difusión 
 
-**Redes sociales:** Whatsapp, familiares y amigos. Facebook, nuestros perfiles personales y 
-**Enlace de la encuesta:**  https://goo.gl/forms/TTOiHSmOfwvuiOm93
-
-11:00 pm nos dimos cuenta que le faltaba contexto y explicarle el usuario de qué trataba la encuesta.
+**Redes sociales:** Whatsapp, familiares y amigos. Facebook, nuestros perfiles personales y grupos de viajeros. 
 
 ### Observaciones
 
-Enlace a la hója de cálculo con los resultados: https://goo.gl/uGT26S
+Enlace a la hoja de cálculo con los resultados: https://goo.gl/uGT26S
 
 La encuesta se cerró con 67 respuestas:
 
@@ -142,7 +153,7 @@ La encuesta se cerró con 67 respuestas:
 * A 73.1% (49 personas) de nuestros encuestados, les resultaría cómodo resolver su transporte hacia la terminal y posteriormente a su destino, en una misma compra. A 22.4% (15 personas) les resultaría cómodo. 
 
 
-### Los tres insight más importantes: 
+### Los tres _insights_ más importantes: 
 
 * Observamos que de las 67 personas encuestadas 67,2% su mayor preocupación fue la seguridad, validando que nuestro pain-point de partida era el correcto. 
 * 49,3% prefiere utilizar un transporte privado por encima de un transporte público, tomando en cuenta que un transporte público es más accesible económicamente.
@@ -163,4 +174,4 @@ http://360.pagedemo.co/
 
 ## Presentation
 
-## Conslusiones Generales. 
+## Conclusiones Generales. 
