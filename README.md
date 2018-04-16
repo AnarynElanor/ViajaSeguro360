@@ -215,6 +215,8 @@ Una vez realizada una primera versión del sitio tomando en consideración los c
 
 ## Landing page 
 
+![lp-v3](https://user-images.githubusercontent.com/32875695/38824007-869e3544-416d-11e8-8ddb-f47abb61a62e.png)
+
 
 http://360.pagedemo.co/
 
