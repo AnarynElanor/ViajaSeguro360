@@ -1,5 +1,8 @@
 # Viaja Seguro 360
 
+![lp-v3](https://user-images.githubusercontent.com/32875695/38824007-869e3544-416d-11e8-8ddb-f47abb61a62e.png)
+
+
 ## **Proyecto Sprint #1 | _Track UX Laboratoria_**
 
 **Entender y optimizar el journey de tomar un camión de la CDMX a Cuernavaca**, con el objetivo de conocer el _proceso de diseño_ de una solución tecnológica.
