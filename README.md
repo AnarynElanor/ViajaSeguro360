@@ -88,7 +88,7 @@ El primer paso fue
 * Vive solo
 * Es organizado
 
-# Research
+## Research
 
 
 ## Field Research
